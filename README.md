@@ -31,10 +31,10 @@ Implement CUDA version of Blocked Floyd-Warshall Algorithm on Multi-GPU.
 - Modify the code to meet spec.
 
 ## Final Project - KMeans Clustering Parallelization
-Optimization : 
-Sequential version 91.8s
-OpenMP version 47.2s
-CUDA version 11.7s
+Optimization : <br>
+- Sequential version 91.8s
+- OpenMP version 47.2s
+- CUDA version 11.7s
 
 
 ## Grade
