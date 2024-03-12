@@ -31,6 +31,9 @@ Implement CUDA version of Blocked Floyd-Warshall Algorithm on Multi-GPU.
 - Modify the code to meet spec.
 
 ## Final Project - KMeans Clustering Parallelization
+Use OpenMP and CUDA to parallelize K-Means Clustering algorithm, result in a 7.82 times speedup, with experiments and a complete report.
+Check the presentation PPT in that folder to see more details.
+
 Optimization : <br>
 - Sequential version 91.8s
 - OpenMP version 47.2s
